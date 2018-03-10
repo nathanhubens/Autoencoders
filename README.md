@@ -7,4 +7,4 @@ This notebook show the implementation of four types of autoencoders :
 * Convolutional Autoencoder
 * Regularized Autoencoder
 
-The explanation of each can be found here : https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f
+The explanation of each can be found [here](https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f)
